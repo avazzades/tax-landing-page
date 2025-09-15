@@ -9,9 +9,6 @@ root.render(
     <App />
   </React.StrictMode>
 );
-Commit the changes;
-Step 3: Confirm presence of public/index.html
-Also ensure the file exists with the following content:
 
 <!DOCTYPE html>
 <html lang="en">
