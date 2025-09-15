@@ -21,7 +21,7 @@
   "react-scripts": "5.0.1",
   "tailwind-merge": "^2.2.0",
   "tailwindcss-animate": "^1.0.7",
-  "sonner": "^0.0.7"   // ← Add this line
+  "sonner": "^0.0.7"
 },
   "engines": {
     "node": "20.x"
